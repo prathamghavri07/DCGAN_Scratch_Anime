@@ -10,5 +10,6 @@ It has Discrimnator and a Generator , where Discrimnator is like a offical who c
 Generator learns to create fake parts in turn , making a synthetic Images
 
 ## Results
-![image](https://github.com/user-attachments/assets/36b11eac-ef89-42a3-b5b4-606c27501a81)
+![image](https://github.com/user-attachments/assets/8f62f4ef-29fa-4f18-9b8c-86a4f8af071c)
+
 
